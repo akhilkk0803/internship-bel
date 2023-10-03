@@ -1,0 +1,15 @@
+.contact {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 50px 0px;
+}
+.work {
+  border-radius: 30px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  padding: 50px;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  flex-direction: column;
+}
